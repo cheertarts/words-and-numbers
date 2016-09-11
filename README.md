@@ -32,3 +32,7 @@ Psst, for standard english the smallest chain of seven in one million is
 and for englishand it is
 
     [[124, 23], [23, 11], [11, 6], [6, 3], [3, 5], [5, 4], [4, 4]]
+
+and for englishplus it is
+
+    [[117, 23], [23, 11], [11, 6], [6, 3], [3, 5], [5, 4], [4, 4]]
