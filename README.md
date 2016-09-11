@@ -24,3 +24,11 @@ Inspired by the video https://www.youtube.com/watch?v=LYKn0yUTIU4, this program 
                                                          # ninety nine
 
 PLEASE, unless you know what you're doing, DO NOT run words-and-numbers without english, englishand or englishplus as the first argument. This program was made very quickly and is probably very error prone. I cannot tell you what will happen if you run this program in an unexpected way.
+
+Psst, for standard english the smallest chain of seven in one million is
+
+    [[323, 23], [23, 11], [11, 6], [6, 3], [3, 5], [5, 4], [4, 4]]
+
+and for englishand it is
+
+    [[124, 23], [23, 11], [11, 6], [6, 3], [3, 5], [5, 4], [4, 4]]
